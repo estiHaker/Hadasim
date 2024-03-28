@@ -8,8 +8,8 @@
 #### Deleting a member
 #### Adding a vaccine to a member
 ### Bonus
-### The number of members who are not vaccinated
-### A graph display of how many patients there were each day in the last month - not working well
+#### The number of members who are not vaccinated
+#### A graph display of how many patients there were each day in the last month - not working well
 
 ### Installation of the package axios
 
