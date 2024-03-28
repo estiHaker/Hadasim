@@ -58,6 +58,7 @@
 #### Installation of the packages SqlServer and Tools.
 ### Core - responsible for the models and interfaces of the entire system.
 
+#### Validation tests in the business logic.
 
 ## DataBase
 ### Interrelationships
