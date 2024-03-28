@@ -1,5 +1,5 @@
 # project1
-## client
+## client- Written in JS
 ![web](https://github.com/estiHaker/Hadasim/assets/144729995/9d4141d6-e4e9-4e2e-bb48-6020fb913dc9)
 ### The actions on my site:
 #### Selecting a member and displaying his details.
@@ -13,7 +13,7 @@
 
 ### Installation of the package axios
 
-## server
+## server- Written in c# NetCore
 ### Members table
 #### get all members
 'https://localhost:7129/api/Members'
@@ -23,7 +23,7 @@
 'https://localhost:7129/api/Members/{id}'
 #### update member
 'https://localhost:7129/api/Members/{id}'
-#### delete member
+#### delete member- all the member's vaccinations are also deleted
 'https://localhost:7129/api/Members/{id}'
 
 ### Manufacturer table
@@ -70,6 +70,7 @@
 ![tblVaccination](https://github.com/estiHaker/Hadasim/assets/144729995/09368052-d577-4872-8435-e27bb9ebbfec)
 
 # project2
+## Written in python
 ## I assumed that an input of a triangle width less than or equal to 3 is not received
 ## running
 ![run_pro2](https://github.com/estiHaker/Hadasim/assets/144729995/a5ca25b0-51b4-483f-adb5-1c4b175967c4)
