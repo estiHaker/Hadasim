@@ -4,9 +4,9 @@
 ### The actions on my site:
 #### Selecting a member and displaying his details.
 #### Add a member
-#### Update member
+#### Update member - I assumed that when updating a member they update the ill and recovery time together.
 #### Deleting a member
-#### Adding a vaccine to a member
+#### Adding a vaccine to a member - No more than 4 per member.
 ### Bonus
 #### The number of members who are not vaccinated
 #### A graph display of how many patients there were each day in the last month - not working well
