@@ -70,7 +70,7 @@
 ![tblVaccination](https://github.com/estiHaker/Hadasim/assets/144729995/09368052-d577-4872-8435-e27bb9ebbfec)
 
 # project2
-## Written in python
+## Twitter towers - Written in python
 ## I assumed that an input of a triangle width less than or equal to 3 is not received
 ## running
 ![run_pro2](https://github.com/estiHaker/Hadasim/assets/144729995/a5ca25b0-51b4-483f-adb5-1c4b175967c4)
